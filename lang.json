@@ -1,4 +1,5 @@
-"en_gb" : [{
+{
+	"en_gb" : [{
 	"IDC_CHECK_ENABLE_ANPR": "Enable ANPR",
 	"IDC_STATIC_DETECTION_ZONE": "Detection zone",
 	"IDC_STATIC_MIN_CHARACTERS": "Min characters",
@@ -6,5 +7,6 @@
 	"IDC_STATIC_CONFIDENCE": "Confidence(%) >",
 	"IDC_STATIC_CONFIDENCE2": "Confidence(%) >",
 	"IDC_STATIC_CONFIDENCE3": "Confidence(%) >",
-	"IDC_STATIC_CONFIDENCE4": "Confidence(%) >",
-}]
+	"IDC_STATIC_CONFIDENCE4": "Confidence(%) >"
+	}]
+}
