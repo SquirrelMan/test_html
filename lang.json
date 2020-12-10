@@ -1,4 +1,4 @@
-{"en-gb" : {
+{"en_gb" : {
 	"IDC_CHECK_ENABLE_ANPR": "Enable ANPR",
 	"IDC_STATIC_DETECTION_ZONE": "Detection zone",
 	"IDC_STATIC_MIN_CHARACTERS": "Min characters",
@@ -8,7 +8,7 @@
 	"IDC_STATIC_CONFIDENCE3": "Confidence(%) >",
 	"IDC_STATIC_CONFIDENCE4": "Confidence(%) >",
 },
-"zh-tw": {
+"zh_tw": {
 	"IDC_CHECK_ENABLE_ANPR": "啟用ANPR",
 	"IDC_STATIC_DETECTION_ZONE": "偵測區",
 	"IDC_STATIC_MIN_CHARACTERS": "字元最少長度",
@@ -18,7 +18,7 @@
 	"IDC_STATIC_CONFIDENCE3": "信心度(%) >",
 	"IDC_STATIC_CONFIDENCE4": "信心度(%) >",
 },
-"ja-jp": {
+"ja_jp": {
 	"IDC_CHECK_ENABLE_ANPR": "ANPRを有効にする",
 	"IDC_STATIC_DETECTION_ZONE": "検出ゾーン",
 	"IDC_STATIC_MIN_CHARACTERS": "最小文字数",
@@ -28,7 +28,7 @@
 	"IDC_STATIC_CONFIDENCE3": "信頼度(%) >",
 	"IDC_STATIC_CONFIDENCE4": "信頼度(%) >",
 },
-"it-it": {
+"it_it": {
 	"IDC_CHECK_ENABLE_ANPR": "Attiva ANPR",
 	"IDC_STATIC_DETECTION_ZONE": "Zona di rilevamento",
 	"IDC_STATIC_MIN_CHARACTERS": "Min caratteri",
